@@ -14,4 +14,4 @@ Pages are made from multiple components, than can be reuse and mxied together
 ## repositories
 * https://github.com/GreenCodeStudio/kivapi-core - main part of this CMS
 * CoreLib - set of official packaged that can be install
-** https://github.com/GreenCodeStudio/kivapi-CoreLib-Article
+  * https://github.com/GreenCodeStudio/kivapi-CoreLib-Article
