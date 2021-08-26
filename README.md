@@ -15,7 +15,7 @@ Pages are made from multiple components, than can be reuse and mxied together
 
 Firstly, install kivapi-cli uning Composer
 ```
-composer require kivapi/kivapi-cli
+composer global require kivapi/kivapi-cli
 ```
 
 Next, you need to have installed Php, Yarn, Git and Node.js. To check it run
@@ -34,3 +34,5 @@ kivapi create
 * [kivapi-cli](https://github.com/GreenCodeStudio/kivapi-cli) - command line tools, installable by composer
 * CoreLib - set of official packaged that can be install
   * [kivapi-CoreLib-Article](https://github.com/GreenCodeStudio/kivapi-CoreLib-Article)
+  * [kivapi-CoreLib-BasicComponents](https://github.com/GreenCodeStudio/kivapi-CoreLib-BasicComponents)
+  * [kivapi-CoreLib-Menu](https://github.com/GreenCodeStudio/kivapi-CoreLib-Menu)
