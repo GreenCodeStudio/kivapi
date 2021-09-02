@@ -23,9 +23,36 @@ Next, you need to have installed Php, Yarn, Git and Node.js. To check it run
 kivapi status
 ```
 
+Next, prepare empty MySQL database.
+
 Then you can create new project
 ```
 kivapi create
+```
+
+Move to newly created folder
+```
+cd NameOfProject
+```
+
+Create MySQL tables
+```
+kivapi db upgrade
+```
+
+Create admin user account
+```
+kivapi user add
+```
+
+Build
+```
+kivapi build
+```
+
+and then on other console run devserver
+```
+kivapi devServer
 ```
 
 ## Repositories
