@@ -11,6 +11,9 @@ In case you dont want to write your HTML, you can make website without it only b
 ### Components
 Pages are made from multiple components, than can be reuse and mxied together
 
+## Screenshots
+![Admin panel](img/screen1.png)
+
 ## How to start
 
 Firstly, install kivapi-cli uning Composer
