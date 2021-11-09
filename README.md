@@ -38,6 +38,11 @@ Move to newly created folder
 cd NameOfProject
 ```
 
+Install dependencies
+```
+composer install
+```
+
 Create MySQL tables
 ```
 kivapi db upgrade
