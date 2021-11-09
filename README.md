@@ -1,6 +1,12 @@
 # kivapi
 Kivapi is CMS (Content Management System) disigned to be better than Wordpress
 
+## Live demo
+
+https://demo1.kivapi.green-code.studio/panel/User
+Login/email: demo@demo
+Password: demo
+
 ## Key principes
 ### Developers friendly
 Kivapi was designed, that programmers, who makes websites in plain HTML can put it into Kivapi to allow editing certain elements by user from admin panel.
