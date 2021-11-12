@@ -1,4 +1,5 @@
-# files
+# Project structure
+## Files
 In main directory of kivapi project there are such files and subdirectories
  * Assets - containing for example images used on your webpage.
  * UploadedFiles - files uploaded by user using admin panel
@@ -13,3 +14,5 @@ In main directory of kivapi project there are such files and subdirectories
  * vendor - [Composer](https://getcomposer.org/) packages
  * .env - environment configuration, such as database connection
  * config.php - project configuration
+
+## Namespaces
