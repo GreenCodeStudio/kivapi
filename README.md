@@ -1,6 +1,8 @@
 # kivapi
 Kivapi is CMS (Content Management System) disigned to be better than Wordpress
 
+[Documentation](docs/index.md)
+
 ## Live demo
 
 [Webpage](https://demo1.kivapi.green-code.studio/)
@@ -81,3 +83,6 @@ kivapi devServer
   * [kivapi-CoreLib-Article](https://github.com/GreenCodeStudio/kivapi-CoreLib-Article)
   * [kivapi-CoreLib-BasicComponents](https://github.com/GreenCodeStudio/kivapi-CoreLib-BasicComponents)
   * [kivapi-CoreLib-Menu](https://github.com/GreenCodeStudio/kivapi-CoreLib-Menu)
+
+## Documentation
+[Documentation](docs/index.md)
