@@ -5,3 +5,7 @@ relative_links:
 include:
   - README.md
 analytics-id: "G-0NQTETHKV5"
+output:
+  html_document:
+    includes: 
+      in_header: include.html
