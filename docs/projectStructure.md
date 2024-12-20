@@ -1,4 +1,13 @@
 # Project structure
+
+Code in Kivapi project is made of 3 main parts:
+ * Core - main part of Kivapi, contained in `Core` directory. Don't edit files in this directory (unless you want to contribute and make pull-requests to [main repository](https://github.com/GreenCodeStudio/kivapi-core), then welcome).
+ * Installed packages - parts of project than can be reused in other websites, contained in `Packages` directory. Packages can be installed by cli or admin panel.
+ * Your code - code written directly for this website.
+
+
+
+
 ## Files
 In main directory of kivapi project there are such files and subdirectories
  * Assets - containing for example images used on your webpage.

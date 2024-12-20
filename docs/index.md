@@ -1,5 +1,7 @@
 # Kivapi documentation
 
-* [project structure](projectStructure.md)
-* [components](components.md)
-* [packages](packages.md)
+* [Introduction](introduction.md)
+* [Project structure](projectStructure.md)
+* [Panel](panel.md)
+* [Components](components.md)
+* [Packages](packages.md)
